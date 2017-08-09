@@ -1,0 +1,14 @@
+E:\VS Project\sellProject\sellProject\obj\Debug\ExpressReflect.csprojResolveAssemblyReference.cache
+E:\VS Project\sellProject\sellProject\obj\Debug\sellProject.dll
+E:\VS Project\sellProject\sellProject\obj\Debug\sellProject.pdb
+E:\VS Project\sellProject\sellProject\bin\sellProject.dll.config
+E:\VS Project\sellProject\sellProject\bin\sellProject.dll
+E:\VS Project\sellProject\sellProject\bin\sellProject.pdb
+E:\VS Project\sellProject\sellProject\bin\ReflectToList.dll
+E:\VS Project\sellProject\sellProject\bin\sel_Entity.dll
+E:\VS Project\sellProject\sellProject\bin\Tools.dll
+E:\VS Project\sellProject\sellProject\bin\MyAttribute.dll
+E:\VS Project\sellProject\sellProject\bin\ReflectToList.pdb
+E:\VS Project\sellProject\sellProject\bin\sel_Entity.pdb
+E:\VS Project\sellProject\sellProject\bin\Tools.pdb
+E:\VS Project\sellProject\sellProject\bin\MyAttribute.pdb

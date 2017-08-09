@@ -1,0 +1,4 @@
+E:\VS Project\sellProject\sel_Control\bin\Debug\sel_Control.dll
+E:\VS Project\sellProject\sel_Control\bin\Debug\sel_Control.pdb
+E:\VS Project\sellProject\sel_Control\obj\Debug\sel_Control.dll
+E:\VS Project\sellProject\sel_Control\obj\Debug\sel_Control.pdb

@@ -1,0 +1,21 @@
+D:\VS Project\sellProject\Tools\bin\Debug\Tools.dll
+D:\VS Project\sellProject\Tools\bin\Debug\Tools.pdb
+D:\VS Project\sellProject\Tools\obj\Debug\Tools.dll
+D:\VS Project\sellProject\Tools\obj\Debug\Tools.pdb
+D:\VS Project\sellProject\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\bin\Debug\Tools.dll
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\bin\Debug\Tools.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\bin\Debug\MyAttribute.dll
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\bin\Debug\MyAttribute.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\obj\Debug\Tools.dll
+C:\Users\Lenovo\Desktop\123\sellProject\Tools\obj\Debug\Tools.pdb
+D:\VS Project\sellProject\Tools\bin\Debug\MyAttribute.dll
+D:\VS Project\sellProject\Tools\bin\Debug\MyAttribute.pdb
+E:\VS Project\sellProject\Tools\bin\Debug\Tools.dll
+E:\VS Project\sellProject\Tools\bin\Debug\Tools.pdb
+E:\VS Project\sellProject\Tools\bin\Debug\MyAttribute.dll
+E:\VS Project\sellProject\Tools\bin\Debug\MyAttribute.pdb
+E:\VS Project\sellProject\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+E:\VS Project\sellProject\Tools\obj\Debug\Tools.dll
+E:\VS Project\sellProject\Tools\obj\Debug\Tools.pdb

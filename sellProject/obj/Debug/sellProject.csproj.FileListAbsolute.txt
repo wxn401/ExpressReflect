@@ -1,0 +1,24 @@
+D:\VS Project\sellProject\sellProject\bin\sellProject.dll
+D:\VS Project\sellProject\sellProject\bin\sellProject.pdb
+D:\VS Project\sellProject\sellProject\bin\sel_Entity.dll
+D:\VS Project\sellProject\sellProject\bin\Tools.dll
+D:\VS Project\sellProject\sellProject\bin\sel_Entity.pdb
+D:\VS Project\sellProject\sellProject\bin\Tools.pdb
+D:\VS Project\sellProject\sellProject\obj\Debug\sellProject.csprojResolveAssemblyReference.cache
+D:\VS Project\sellProject\sellProject\obj\Debug\sellProject.dll
+D:\VS Project\sellProject\sellProject\obj\Debug\sellProject.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\sellProject.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\sellProject.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\sel_Entity.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\Tools.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\MyAttribute.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\sel_Entity.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\Tools.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\bin\MyAttribute.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\obj\Debug\sellProject.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\obj\Debug\sellProject.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sellProject\obj\Debug\sellProject.pdb
+D:\VS Project\sellProject\sellProject\bin\ReflectToList.dll
+D:\VS Project\sellProject\sellProject\bin\MyAttribute.dll
+D:\VS Project\sellProject\sellProject\bin\ReflectToList.pdb
+D:\VS Project\sellProject\sellProject\bin\MyAttribute.pdb

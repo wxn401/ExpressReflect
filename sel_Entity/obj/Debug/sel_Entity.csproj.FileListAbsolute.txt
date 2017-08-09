@@ -1,0 +1,21 @@
+D:\VS Project\sellProject\sel_Entity\bin\Debug\sel_Entity.dll
+D:\VS Project\sellProject\sel_Entity\bin\Debug\sel_Entity.pdb
+D:\VS Project\sellProject\sel_Entity\obj\Debug\sel_Entity.dll
+D:\VS Project\sellProject\sel_Entity\obj\Debug\sel_Entity.pdb
+D:\VS Project\sellProject\sel_Entity\obj\Debug\sel_Entity.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\bin\Debug\sel_Entity.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\bin\Debug\sel_Entity.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\bin\Debug\MyAttribute.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\bin\Debug\MyAttribute.pdb
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\obj\Debug\sel_Entity.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\obj\Debug\sel_Entity.dll
+C:\Users\Lenovo\Desktop\123\sellProject\sel_Entity\obj\Debug\sel_Entity.pdb
+D:\VS Project\sellProject\sel_Entity\bin\Debug\MyAttribute.dll
+D:\VS Project\sellProject\sel_Entity\bin\Debug\MyAttribute.pdb
+E:\VS Project\sellProject\sel_Entity\bin\Debug\sel_Entity.dll
+E:\VS Project\sellProject\sel_Entity\bin\Debug\sel_Entity.pdb
+E:\VS Project\sellProject\sel_Entity\bin\Debug\MyAttribute.dll
+E:\VS Project\sellProject\sel_Entity\bin\Debug\MyAttribute.pdb
+E:\VS Project\sellProject\sel_Entity\obj\Debug\sel_Entity.csprojResolveAssemblyReference.cache
+E:\VS Project\sellProject\sel_Entity\obj\Debug\sel_Entity.dll
+E:\VS Project\sellProject\sel_Entity\obj\Debug\sel_Entity.pdb
